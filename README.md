@@ -37,4 +37,7 @@ The app runs an interactive **Streamlit interface** with two main sections:
 
 All application states (API key, docs, embeddings, chat history) are stored in **Streamlit's session state** for persistence during runtime.
 
+##Deployed URL
+https://conceptexplainerdemo.streamlit.app/
+
 </aside>
